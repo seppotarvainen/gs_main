@@ -2,3 +2,6 @@
 	path = gs_sub
 	url = https://github.com/seppotarvainen/gs_sub.git
 
+[submodule "test_project_sub"]
+	path = test_project_sub
+	url = https://github.com/seppotarvainen/test_project_sub.git
