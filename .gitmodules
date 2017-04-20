@@ -1,5 +1,4 @@
 [submodule "gs_sub"]
 	path = gs_sub
 	url = https://github.com/seppotarvainen/gs_sub.git
-	branch = dev
 
