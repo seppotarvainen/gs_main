@@ -1,2 +1,3 @@
 New file here
+Middle line
 New line here
