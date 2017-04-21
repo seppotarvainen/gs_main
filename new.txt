@@ -1,3 +1,4 @@
-New file here
+New file here, mod
 Middle line
 New line here
+After line
